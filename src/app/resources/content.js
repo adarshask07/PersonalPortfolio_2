@@ -7,9 +7,9 @@ const person = {
     return `${this.firstName} ${this.lastName}`;
   },
   role: "Software Engineer",
-  avatar: "/images/avatar.jpg",
+  avatar: "/images/my.webp",
   location: "Asia/Kolkata", // IANA time zone for India
-  languages: ["English", "Hindi"], // Modify if needed
+  languages: ["English", "Hindi","Marathi"], // Modify if needed
 };
 
 
