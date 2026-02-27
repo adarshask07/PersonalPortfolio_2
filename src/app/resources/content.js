@@ -161,6 +161,12 @@ const about = {
 };
 
 
+const feedback = {
+  label: "Feedback",
+  title: "Feedback & Recognition",
+  description: "Real feedback from the incredible people I've had the pleasure to work with.",
+};
+
 const blog = {
   label: "Blog",
   title: "Writing about design and tech...",
@@ -256,4 +262,4 @@ const gallery = {
   ],
 };
 
-export { person, social, newsletter, home, about, blog, work, gallery };
+export { person, social, newsletter, home, about, blog, work, gallery, feedback };
